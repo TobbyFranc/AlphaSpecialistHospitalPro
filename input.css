@@ -130,7 +130,7 @@ body{
 
 /* TESTIMONIAL */
 
-.testimonial{
+/* .testimonial{
     position: relative;
 }
 
@@ -147,13 +147,13 @@ body{
 @keyframes comment{
     0%{ left: 0;}
     100%{left: -200%;}
-}
+} */
 
 /* FAQS */
 
 .faqsBox .answer,
 .faqsBox .faqsArrow{
-    transition: all .5s ease;
+    transition: all .4s ease;
 }
 
 .faqsBox.active .answer{
